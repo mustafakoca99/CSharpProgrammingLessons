@@ -1,0 +1,7 @@
+C:\Users\Mustafa Koca\Desktop\ders1\ders1\bin\Debug\ders1.exe.config
+C:\Users\Mustafa Koca\Desktop\ders1\ders1\bin\Debug\ders1.exe
+C:\Users\Mustafa Koca\Desktop\ders1\ders1\bin\Debug\ders1.pdb
+C:\Users\Mustafa Koca\Desktop\ders1\ders1\obj\Debug\ders1.csprojAssemblyReference.cache
+C:\Users\Mustafa Koca\Desktop\ders1\ders1\obj\Debug\ders1.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Koca\Desktop\ders1\ders1\obj\Debug\ders1.exe
+C:\Users\Mustafa Koca\Desktop\ders1\ders1\obj\Debug\ders1.pdb
